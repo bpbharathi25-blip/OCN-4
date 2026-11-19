@@ -169,11 +169,9 @@ plt.show()
 
 ## Sample Output
 
-<img width="623" height="478" alt="image" src="https://github.com/user-attachments/assets/7569e8ec-3417-4669-b37b-06029f87655a" />
+<img width="986" height="1600" alt="image" src="https://github.com/user-attachments/assets/bce698be-9df8-465a-bcbf-a11d6daf1070" />
+<img width="1549" height="1600" alt="image" src="https://github.com/user-attachments/assets/5e34177c-047f-42e3-b83a-eb2a4aa6a331" />
 
-<img width="677" height="466" alt="image" src="https://github.com/user-attachments/assets/e937804f-b55d-4de9-ab1e-155e6bd01d8e" />
-
-<img width="652" height="456" alt="image" src="https://github.com/user-attachments/assets/d22a7a99-0cd4-439e-b49b-b9dde93ab78b" />
 
 The simulation produces a spectrum containing three distinct optical channel peaks at **1550 nm, 1552 nm, and 1554 nm**. The output power of each channel is approximately **−3 dBm**, corresponding to an insertion loss of **1 dB** from the input power of −2 dBm.
 
